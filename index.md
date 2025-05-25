@@ -60,3 +60,22 @@ let myVar = 'hello, world!';
 ``` Rust
 let mut v = vec![1,2,3,4,5];
 ```
+
+## Make a task list
+
+### Example
+<pre>
+  ```
+- [x] Add headers
+- [x] Add an image
+- [x] Add a code example
+- [x] Add a task list
+  ```
+</pre>
+
+#### How it looks
+
+- [x] Add headers
+- [x] Add an image
+- [x] Add a code example
+- [x] Add a task list
